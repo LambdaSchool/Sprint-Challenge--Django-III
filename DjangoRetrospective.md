@@ -1,8 +1,8 @@
 # Link to your Djorg repo, deployed site, and a summary of your status:
 
-(Djorg repo)[https://github.com/nunulong/djorg]
+[Djorg repo](https://github.com/nunulong/djorg)
 
-(Heroku Djorg)[https://djorg-django.herokuapp.com/]
+[Heroku Djorg](https://djorg-django.herokuapp.com/)
 
 * Did you reproduce the MVP apps we worked on together?
 
