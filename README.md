@@ -6,6 +6,7 @@ answers the following questions:
 
 - Link to your Djorg repo, deployed site, and a summary of your status:
    https://damp-mountain-56429.herokuapp.com
+   https://github.com/padjo/timeTracking.git
      This is a timer app
     - Did you reproduce the MVP apps we worked on together?
      I followed along to a book Fullstack react to create a fairly interactive timers app
