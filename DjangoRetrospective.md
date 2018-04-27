@@ -60,7 +60,7 @@ Answer:
 
 12. in the application folder, create template folder for frontend views that will interact with the backend routers which are urls and fetch data through controllers which are views.
 
-13. after done all these, we can start the django server using `python manage.py runserver` and the default port number will be `800`.
+13. after done all these, we can start the django server using `python manage.py runserver` and the default port number will be `8000`.
 
 14. now you can visualize the data in the browser and more than that is you create the admin user using `python manage.py createsuperuser` which will allow you to log in the application as administrator in the admin dashboard that is built by django and audit all the data you have.
 
