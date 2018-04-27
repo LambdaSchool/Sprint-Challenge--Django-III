@@ -5,6 +5,7 @@ Your task is to open a PR to this repo with a file `DjangoRetrospective.md` that
 answers the following questions:
 
 - Link to your Djorg repo, deployed site, and a summary of your status:
+Link to github repo - https://github.com/jaspindersingh83/kanban-
     - Did you reproduce the MVP apps we worked on together?
     Yes
     - Did you add 3rd party oauth?
